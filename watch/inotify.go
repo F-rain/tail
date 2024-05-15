@@ -10,7 +10,7 @@ import (
 
 	"github.com/hpcloud/tail/util"
 
-	"gopkg.in/fsnotify/fsnotify/fsnotify"
+	"github.com/fsnotify/fsnotify"
 	"gopkg.in/tomb.v1"
 )
 
